@@ -1,0 +1,76 @@
+{
+    "ver": "4.0",
+    "name": "Microsoft.XboxLive.T974586226.Achievement",
+    "time": "REPLACETIME",
+    "iKey": "o:0890af88a9ed4cc886a14f5e174a2827",
+    "ext": {
+        "utc": {
+            "shellId": 1,
+            "eventFlags": 1,
+            "pgName": "XBOX",
+            "flags": 1,
+            "epoch": "1",
+            "seq": REPLACESEQ
+        },
+        "privacy": {
+            "isRequired": false
+        },
+        "metadata": {
+            "f": {
+                "baseData": {
+                    "f": {
+                        "properties": {
+                            "f": {
+                                "AchievementID": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "policies": 0
+        },
+        "os": {
+            "bootId": 1,
+            "name": "Windows",
+            "ver": "10.0.22631.3958.amd64fre.ni_release.220506-1250",
+            "expId": "1"
+        },
+        "app": {
+            "id": "U:CompulsionGamesInc.WeHappyFew_1.8.8987.2_x64__eae46zy90r9xg!AppWeHappyFew",
+            "ver": "1.8.8987.2_x64_!2019/11/28:21:10:30!46BBDFA!glimpsegame-uwp64-test.exe",
+            "is1P": 2,
+            "asId": 6938
+        },
+        "device": {
+            "localId": "s:11111111-1111-1111-1111-111111111111",
+            "deviceClass": "Windows.Desktop"
+        },
+        "protocol": {
+            "devMake": "Micro-Star International Co., Ltd.",
+            "devModel": "MS-7D48",
+            "ticketKeys": [
+                "1"
+            ]
+        },
+        "user": {
+            "localId": "w:11111111-1111-1111-1111-111111111111"
+        },
+        "loc": {
+            "tz": "00:00"
+        }
+    },
+    "data": {
+        "baseType": "Microsoft.XboxLive.InGame",
+        "baseData": {
+            "name": "Achievement",
+            "serviceConfigId": "0bc90100-fe1f-4125-bc58-5f0e3a170172",
+            "playerSessionId": "11111111-1111-1111-1111-111111111111",
+            "titleId": "974586226",
+            "userId": "REPLACEXUID",
+            "ver": 1,
+            "properties": {
+                "AchievementID": REPLACECRITERIA1
+            }
+        }
+    }
+}
